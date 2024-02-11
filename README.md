@@ -1,5 +1,5 @@
 
-**Note:** This project was created on the 11th of February 2024, with this READNE file also being created on the 11th of February 2024.
+**Note:** This project was created on the 11/02/24, with this READNE file also being created on the 11/02/24.
 
 #### Exploring US Bikeshare Data
 
