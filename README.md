@@ -1,4 +1,4 @@
->**Note**: This project was creadted on 11/02/24. This README file was also created on 11/02/24. 
+>**Note**: This project was created on 11/02/24. This README file was also created on 11/02/24. 
 
 ## Explore US Bikeshare Data
 
