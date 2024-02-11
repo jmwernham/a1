@@ -9,10 +9,10 @@ The goal of this project was to allow for easy and intuitive analysis of data re
 ### Files used
 The files I used were as follows:
 
-washington.csv 
-chicago.csv 
-new_york_city.csv 
-bikeshare.py
+*washington.csv 
+*chicago.csv 
+*new_york_city.csv 
+*bikeshare.py
 
 ### Credits
 I forked the following repository to create this file and publish to github:
