@@ -9,10 +9,10 @@ The goal of this project was to allow for easy and intuitive analysis of data re
 ### Files used
 The files I used were as follows:
 
-*washington.csv
-*chicago.csv
-*new_york_city.csv
-*bikeshare.py
+washington.csv     
+chicago.csv     
+new_york_city.csv     
+bikeshare.py   
 
 ### Credits
 For this project, I did not use any external resources, however, for the GitHub work I must thank Udacity and the following repository:
