@@ -1,17 +1,21 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
-### Date created
-Include the date you created this project and README file.
+**Note:** This project was created on the 11th of February 2024, with this READNE file also being created on the 11th of February 2024.
 
-### Project Title
-Replace the Project Title
+#### Exploring US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+The goal of this project was to allow for easy and intuitive analysis of data relating to bikeshare schemes across three cities; New York City, Chicago and Washington. To do this, I used Pandas DataFrames and created multiple python functions to allow a user to interact with the data more easily.
 
 ### Files used
-Include the files used
+The files I used were as follows:
+
+washington.csv
+chicago.csv
+new_york_city.csv
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+For this project, I did not use any external resources, however, for the GitHub work I must thank Udacity and the following repository:
+
+github.com/udacity/pdsnd_github
 
